@@ -1,3 +1,8 @@
 PlayerPrefs/New Unity Project/Library/*
 PlayerPrefs/New Unity Project/Logs/*
 PlayerPrefs/New Unity Project/obj/*
+objectPool/objpool/Library/*
+objectpool/objpool/Logs/*
+objectpool/objpool/obj/*
+objectpool/objpool/temp/*
+objectpool/objpool/.vs/*
