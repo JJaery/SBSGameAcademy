@@ -1,0 +1,2 @@
+D:\JeonInJae\강의용\Steamworks\SteamWorksTest\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+D:\JeonInJae\강의용\Steamworks\SteamWorksTest\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
